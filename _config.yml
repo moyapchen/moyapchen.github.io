@@ -1,0 +1,22 @@
+# Setup
+title:               Moya Writes Things 
+tagline:             "a personal website"
+description:         "Description goes here (maybe put an image?)"
+url:                 http://moyapchen.com
+# baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Moya Chen
+  url:               https://linkedin.com/moyapchen
+  email:             moya.p.chen+website_email@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
