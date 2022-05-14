@@ -9,4 +9,9 @@ This is my personal above-the-fold web page, using the [Poole Jekyll](https://gi
 **Moya Chen**
 - <https://github.com/moyapchen>
 
+## Notes
+Stuff I want to change:
+* Add in the footnotes :D
+* Make it so that there's not quite so much whitepsace if the page is large enough for it..
+
 
