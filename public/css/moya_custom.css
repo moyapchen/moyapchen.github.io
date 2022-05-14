@@ -1,0 +1,20 @@
+/*****************************************************************************/
+/*
+/* Sidebar
+/*
+/*****************************************************************************/
+
+
+.sidebar .social-icons a {
+  padding-right: 0.75em;
+}
+
+.sidebar .social-icons a:hover {
+  text-decoration: none;
+}
+
+@media (min-width: 30em) {
+  width: 14%;
+  margin-left: 3%;
+}
+
