@@ -2,8 +2,8 @@
 title:               Moya Writes Things 
 tagline:             "a personal website"
 description:         "Description goes here (maybe put an image?)"
-url:                 http://moyapchen.com
-# baseurl:             ''
+url:                 http://moyapchen.github.io
+  # baseurl:             ''
 paginate:            5
 permalink:           pretty
 
