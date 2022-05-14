@@ -12,5 +12,7 @@ This is my personal above-the-fold web page, using the [Poole Jekyll](https://gi
 ## Notes
 Stuff I want to change:
 * Add in the footnotes :D
-
+* Add in a way for things to not be blog posts but still have tags? Hmmmmmm.... 
+   * Want to do a thing a la gwern where there's pages for specific topics
+* Make the home page not just be a bunch of posts, but maybe summaries thereof? 
 
