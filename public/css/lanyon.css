@@ -327,6 +327,10 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
 }
 
+.page-title {
+  font-size: xxx-large;
+}
+
 /* Meta data line below post title */
 .post-date {
   display: block;
