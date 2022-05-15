@@ -3,27 +3,32 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi there. My name is Moya.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+~
 
-There are currently two themes built on Poole:
+## The Job Stuff
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I'm currently a research engineer at Meta AI Research, based in NYC. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I get paid to dork around with AI/ML, large language models, chatbots, and NLP. It's pretty great. 
 
-## Setup
+Before that, I was on a computer vision team doing large scale localization, a different computer vision team doing face filters (among a bunch of other things), and a spam team. 
+Before joining Facebook (and the corporate world as a whole), I did my undergrad at Caltech. [^mole]  
 
-Some fun facts about the setup of this project include:
+[^mole]: gdbg, ttboai :)  
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+## The Life Stuff
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+
+## The This (Site) Stuff
+
+Spun this up in about a day with github pages using the [Poole Jekyll](https://github.com/poole/lanyon) template, with some minor modifications to fit me. 
+
+If you want to see the underlying code + commit history, it's at 
+
+
+## Contact
+me@[name of this website].com
+

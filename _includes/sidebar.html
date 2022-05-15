@@ -5,7 +5,9 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+    <p>
+    <img src="{{ '/public/bird.ico' | absolute_url }}" border=1> 
+    </p>
   </div>
 
   <nav class="sidebar-nav">
@@ -28,6 +30,7 @@
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ '/blog' | absolute_url }}">Blog</a>
   </nav>
 
+
   <div class="sidebar-item">
     <p class="social-icons">
        <a href="https://github.com/moyapchen"><i class="fa fa-github fa-2x"></i></a>
@@ -41,4 +44,4 @@
       &copy;{{ site.time | date: '%Y' }} Moya Chen. All rights reserved.
     </p>
   </div>
-</div>
+ </div>

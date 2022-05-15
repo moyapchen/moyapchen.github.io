@@ -18,3 +18,20 @@
   margin-left: 3%;
 }
 
+
+/******
+ * Footnotes :) 
+ **/
+.footnotes::before {
+  display: block;
+  content: "Footnotes";
+  font-size: 2rem;
+
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+  margin-bottom: .5rem;
+ 
+}
+
