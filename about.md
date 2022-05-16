@@ -57,6 +57,12 @@ I also hope to do more writing, which is the purpose of the existence of this si
 
 Spun this up in about a day with github pages using the [Poole Jekyll](https://github.com/poole/lanyon) template, with some minor modifications (mostly CSS) to fit me. [Click here](https://github.com/moyapchen/moyapchen.github.io) for the underlying repo.
 
+The image in the sidebar is a photo of some fireworks that I took as a high schooler, back when I had a mini photography phase. [Link to original (on Flickr) here.](https://www.flickr.com/photos/randomnormality/2638292064/) [^flickr]
+
+[^flickr]: Incidentally, I wonder if being a Flickr user first is why I ended up getting into Instagram relatively late in the curve of things [^sister] — I'd already satisfied my picture sharing urges with Flickr, and was never quite bought into the lead-by-aesthetics of Instagram. (Though, I definitely appreciate its value!)
+
+[^sister]: ...and only as a result of it being the primary way to contact my little sister... God I hate the messaging app ecosystem fragmentation that exists in the US right now. 
+
 ## Contact
 [me(at)moyachen.com](mailto:me@moyachen.com)
 
