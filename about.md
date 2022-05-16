@@ -29,7 +29,7 @@ I'm currently a research engineer at Meta AI Research, based in NYC.
 
 I get paid to dork around with AI/ML, large language models, chatbots, and NLP. It's pretty great. 
 
-Before that, I was on a computer vision team doing large scale localization, a different computer vision team doing face filters (among a bunch of other things), and a spam team working on abuse of political ads abuse and API abuse in general. 
+Before that, I was on a computer vision team doing large scale localization, a different computer vision team doing face filters (among a bunch of other things), and a spam team working on political ads abuse as well as API abuse in general. 
 
 Before joining Facebook (and the corporate world as a whole), I did my undergrad at Caltech. [^mole]  
 
