@@ -1,32 +1,21 @@
 ---
-layout: blog_page 
-title: Blog
+layout: default
 ---
+
+<div class="page">
+    <h1 class="page-title">Blog</h1>
+<a href={{"/blog/tags" | absolute_url }}> Link to blog tags here </a>
+
+<hr>
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    
-    <!-- Content paragraphs -->
-    {% assign paragraphs = post.content | split:'</p>'  %}
-    {{ paragraphs | slice: 0, 2| join:'</p>' }} 
-    {% if paragraphs.size > 3 %}
-        <a href="{{ post.url | absolute_url }}"> (... click for more) </a>
-    {% endif %}
-
-  </div>
-  <p>
-  <hr>
+     {% include post_short.html post=post %}
   {% endfor %}
 </div>
 
+
+<div class="posts"
 <div class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
@@ -42,4 +31,5 @@ title: Blog
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
+</div>
 </div>

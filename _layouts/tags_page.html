@@ -1,0 +1,23 @@
+---
+layout: default
+title: Tag Page
+---
+
+<div class="page">
+    <h1 class="page-title">Articles tagged with "{{ page.tag }}"</h1>
+    
+  Total post count: {{ site.posts | where_exp:"post", "post.tags contains page.tag"  | size}}    
+
+  {{ content }} 
+
+
+  <hr>
+  {% for post in site.posts %}
+    {% if post.tags contains page.tag %}
+        {% include post_short.html post=post %} 
+    {% endif %}
+  {% endfor %}
+
+</div>
+
+
