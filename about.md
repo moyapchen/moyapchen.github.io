@@ -39,7 +39,7 @@ Before joining Facebook (and the corporate world as a whole), I did my undergrad
 
 I spend a lot of time doing everything and nothing.
 
-I genuinely enjoy tech and have since I was a kid, so a good amount of time is spent dorking around reading tech journalism, especially going ons between tech and policy/society/business/etc. I have a pretty rigorous computer science background and have had some pretty unique experiences while being on the inside of That One Social Media Beast, so it can be quite interesting to compare and contrast what I've experienced first-hand. 
+I genuinely enjoy tech and have since I was a kid, so a good amount of time is spent dorking around reading tech journalism, especially going ons between tech and policy/society/business/etc. I have a pretty rigorous computer science background and have had some pretty unique experiences while being on the inside of That One Social Media Beast, so it can be quite interesting to compare what's being said outside versus what I've experienced first-hand. 
 
 Laundry list of other things I do:
 * Outdoors-y fitness-y things: Hiking, climbing, backpacking
