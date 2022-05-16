@@ -41,7 +41,7 @@ I spend a lot of time doing everything and nothing.
 
 I genuinely enjoy tech and have since I was a kid, so a good amount of time is spent dorking around reading tech journalism, especially going ons between tech and policy/society/business/etc. I have a pretty rigorous computer science background and have had some pretty unique experiences while being on the inside of That One Social Media Beast, so it can be quite interesting to compare what's being said outside versus what I've experienced first-hand. 
 
-Laundry list of other things I do:
+### Laundry list of other things I do
 * Outdoors-y fitness-y things: Hiking, climbing, backpacking
    * Training for long distance races in foreign countries (Cuba, maybe Istanbul?)
 * Piano (good), flute (good high school level), guitar + ukulele (better-than-total-beginner)
@@ -55,13 +55,15 @@ I also hope to do more writing, which is the purpose of the existence of this si
 
 ## The This (Site) Stuff
 
-Spun this up in about a day with github pages using the [Poole Jekyll](https://github.com/poole/lanyon) template, with some minor modifications (mostly CSS) to fit me. [Click here](https://github.com/moyapchen/moyapchen.github.io) for the underlying repo.
+Spun this up in about a day with github pages using the [Poole Jekyll](https://github.com/poole/lanyon) template, with some minor modifications (mostly CSS, also footnotes + emojis) to fit me. [Click here](https://github.com/moyapchen/moyapchen.github.io) for the underlying repo.
 
 The image in the sidebar is a photo of some fireworks that I took as a high schooler, back when I had a mini photography phase. [Link to original (on Flickr) here.](https://www.flickr.com/photos/randomnormality/2638292064/) [^flickr]
 
 [^flickr]: Incidentally, I wonder if being a Flickr user first is why I ended up getting into Instagram relatively late in the curve of things [^sister] — I'd already satisfied my picture sharing urges with Flickr, and was never quite bought into the lead-by-aesthetics of Instagram. (Though, I definitely appreciate its value!)
 
-[^sister]: ...and only as a result of it being the primary way to contact my little sister... God I hate the messaging app ecosystem fragmentation that exists in the US right now. 
+[^sister]: ...and only as a result of it being the primary way to contact my little sister... God I hate the messaging app ecosystem fragmentation that exists in the US right now. [^infinite_jest]
+
+[^infinite_jest]: Incidentally, despite this unnecessary (and slightly over-the-top) usage of footnotes, I've never actually finished *Infinite Jest*. 
 
 ## Contact
 [me(at)moyachen.com](mailto:me@moyachen.com)
