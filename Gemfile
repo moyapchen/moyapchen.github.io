@@ -7,6 +7,8 @@ gem "jekyll-seo-tag"
 
 gem "webrick", "~> 1.7"
 
+gem "jemoji"
+
 group :jekyll_plugins do
   gem 'jekyll-pre-commit'
 end

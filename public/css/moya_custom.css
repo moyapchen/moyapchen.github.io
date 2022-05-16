@@ -35,3 +35,13 @@
  
 }
 
+/**
+ * Emojis lol
+ */
+
+.emoji {
+  display: inline;
+  margin: auto; 
+}
+
+
