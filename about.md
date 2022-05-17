@@ -18,7 +18,13 @@ Some quotes I've liked for decades now:
 </div>
 
 <div class="message" style="text-align: center;">
-"We are what we pretend to be, so we must be careful about what we pretend to be." ~ Vonnegut (again)
+"We are what we pretend to be, so we must be careful about what we pretend to be." ~ Vonnegut[^vonnegut]
+</div>
+
+[^vonnegut]: My literary tastes as a high schooler could be (somewhat) summed up as "required books for school, plus a bunch of things by snarky old white dudes". I did read through quite a bit of extra Vonnegut in college, thanks to the old sci fi library in the Caltech SAC basement. 
+ 
+<div class="message" style="text-align: center;">
+"The opposite of war is not peace - it's creation!" ~ Jonathan Larson (Rent) 
 </div>
 
 
@@ -57,7 +63,7 @@ I also hope to do more writing, which is the purpose of the existence of this si
 
 Spun this up in about a day with github pages using the [Poole Jekyll](https://github.com/poole/lanyon) template, with some minor modifications (mostly CSS, also footnotes + emojis) to fit me. [Click here](https://github.com/moyapchen/moyapchen.github.io) for the underlying repo.
 
-The image in the sidebar is a photo of some fireworks that I took as a high schooler, back when I had a mini photography phase. [Link to original (on Flickr) here.](https://www.flickr.com/photos/randomnormality/2638292064/) [^flickr]
+The image in the sidebar is a photo of some fireworks that I took as a high schooler, back when I had a bit of a photography phase. I had a shoddy digital camera but figured out how to play with the exposure time; I was plesantly surprised when one of my random "let's shoot at a firework while shaking the camera" images looked vaguely like something else. [Link to original (on Flickr) here.](https://www.flickr.com/photos/randomnormality/2638292064/) [^flickr]
 
 [^flickr]: Incidentally, I wonder if being a Flickr user first is why I ended up getting into Instagram relatively late in the curve of things [^sister] — I'd already satisfied my picture sharing urges with Flickr, and was never quite bought into the lead-by-aesthetics of Instagram. (Though, I definitely appreciate its value!)
 
