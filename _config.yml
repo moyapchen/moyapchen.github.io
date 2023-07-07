@@ -33,11 +33,10 @@ tag_page_dir: blog/tags
 # Gems
 plugins:
   - jekyll-paginate
-  - jemoji
 
 gems:
   - jekyll/tagging
-
+  - jemoji
 
 # Custom vars
 version:             1.1.0
