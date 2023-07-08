@@ -35,7 +35,6 @@ plugins:
   - jekyll-paginate
 
 gems:
-  - jekyll/tagging
   - jemoji
 
 # Custom vars
