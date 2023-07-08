@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Facebook Badge Post - Motivations + Memories (2/2)  
-tags: site meta
+tags: facebook facebook-badge-post life 
 ---
 
 <hr>
