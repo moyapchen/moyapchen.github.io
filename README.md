@@ -9,6 +9,9 @@ This is my personal above-the-fold web page, using the [Poole Jekyll](https://gi
 **Moya Chen**
 - <https://github.com/moyapchen>
 
+## Run notes
+`python3 _scripts/tag_generator.py` 
+
 ## Notes
 Stuff I want to change:
 * Add in a way for things to not be blog posts but still have tags? Hmmmmmm.... 
@@ -18,4 +21,7 @@ Stuff I want to change:
 Stuff changed:
 * Add in footnotes :D
 * Add in emojis 
+
+Gotchas:
+* Can't install any plugins not in https://pages.github.com/versions/ :( 
 
