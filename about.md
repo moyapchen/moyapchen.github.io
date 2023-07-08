@@ -33,7 +33,7 @@ Hi there. My name is Moya.
 
 ## The Job Stuff
 
-After failing to get laid off 3 times[^layoff], I voluntarily quit in July 2023. If you're curious about why, see (TODO: insert link to badge/blog posts) 
+After failing to get laid off 3 times[^layoff], I voluntarily quit in July 2023. If you're curious about why, see [this copy of the Motiviations part from my quit post]({% post_url 2023-07-07-badge_post-2-motivations %}).
 
 [^layoff]: 32 weeks (16 base + 2 x 8 years of service) of severance would've been great. Some folks ask why I didn't sandbag myself to get the $$ - turns out, I've got too much of a conscience and feel enough guilt for my coworkers (not to mention anxiousness over my own unproductivity) to go that long.
 
