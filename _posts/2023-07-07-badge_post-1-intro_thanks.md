@@ -4,14 +4,6 @@ title: Facebook Badge Post - Badge Post Context + Thanks (1/2)
 tags: facebook facebook-badge-post life 
 ---
 
-<hr>
-
-<b>[Part 1 - Badge Post Context + Thanks]({% post_url 2023-07-07-badge_post-1-intro_thanks %})</b> 
-|
-[Part 2 - Motivations + Memories]({% post_url 2023-07-07-badge_post-2-motivations %}) 
-
-<hr>
-
 # Badge Post Context 
 
 Traditionally, when folks leave Facebook, they take a photo of their badge and leave a post about whatever information/thanks/rants they'd like to leave.  

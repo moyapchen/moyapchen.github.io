@@ -4,13 +4,6 @@ title: Facebook Badge Post - Motivations + Memories (2/2)
 tags: facebook facebook-badge-post life 
 ---
 
-<hr>
-[Part 1 - Badge Post Context + Thanks]({% post_url 2023-07-07-badge_post-1-intro_thanks %})
-|
-<b>[Part 2 - Motivations + Memories]({% post_url 2023-07-07-badge_post-2-motivations %})</b>
-
-<hr>
-
 ## The Motivational Things
 
 <b>Why?</b>
