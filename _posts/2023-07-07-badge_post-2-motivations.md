@@ -3,7 +3,7 @@ layout: post
 title: Facebook Badge Post - Motivations + Memories (2/2)  
 tags: facebook facebook-badge-post life 
 ---
-<i> Note: Made some minor edits to this after initial post; see [this PR]() </i>
+<i> Note Jul 10, 2023: Made some minor edits to this after initial post; see [this PR](https://github.com/moyapchen/moyapchen.github.io/pull/13/files) </i>
 
 ## The Motivational Things
 
