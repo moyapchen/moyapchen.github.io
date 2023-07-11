@@ -3,6 +3,7 @@ layout: post
 title: Facebook Badge Post - Motivations + Memories (2/2)  
 tags: facebook facebook-badge-post life 
 ---
+<i> Note: Made some minor edits to this after initial post; see [this PR]() </i>
 
 ## The Motivational Things
 
@@ -16,18 +17,20 @@ I'm lucky at the moment to not be tied down to much — relationships, location,
 
 Frankly, it's also just sort of time. I've changed teams every 1.5-2 years, done 3 major area switches, and walked the research-to-production pipeline backwards; as much as I still think FB has its things together in ways that many other corporations don't, I've already seen a lot of how things are done here and what FB has to offer. Also while I have no intention of being a Retiree (despite whatever the Chuckr scale says[^chuckr]). I also reached the "financial independent" part of FIRE a while ago and want to explore what that means for me.
 
-[^chuckr]: [chuckr](https://engineering.fb.com/2012/04/05/production-engineering/release-engineering-and-push-karma-chuck-rossi/) was a internally well-known engineer who made a work-internal scale based on how long your tenure was at the company. Anything 7+ was retiree, 4-ish was traitor, and I think tourist was also on the list. (Someone that remembers should message me so I can update this appropriately lol) 
+[^chuckr]: [chuckr](https://engineering.fb.com/2012/04/05/production-engineering/release-engineering-and-push-karma-chuck-rossi/) was a internally well-known engineer who made a work-internal scale [based on how long your tenure was at the company when you quit](/public/blog_images/chuckr_quit_scale.jpg).  
 
 Lower order bits:
 * My birthday is Aug 8 (8/8). Getting to 8 years appeals to the numerical pattern matching part of my brain. 😛
 * I already sorta know what increasing the mean (ie climbing the career ladder) looks like and I want to play the variance from feeling that much more of the end-to-end ownership. (Or, maybe I read too much r/FatFIRE lol)
-* Because of all of the above, I've already had a quit-by date for a while now. (Among other things, I already made use of one of the rarer, but also best-optionality granting benefits back in early 2022 so that I wouldn't have to deal with those logistics now.)
+* Because of all of the above, I've already had a quit-by date for a while now. (Among other things, I already made use of one of the rarer, but also best-optionality granting benefits[^egg] back in early 2022 so that I wouldn't have to deal with those logistics now.)
+
+[^egg]: Egg freezing. Will write another post about this at some point. 
 
 <b>What's next?</b>
 
 I'm going to spend the next 1-3 years intentionally doing the higher-variance things (travelling, startups, projects). If something from that time works out, great. If not, I'll have a lot of new experiences and understanding of how different environments are and how I am in those environments in kind, and that's a sort of working out too.[^sf]
 
-[^sf]: Currently starting out at the mecca that is the SF Bay Area (and hoping I don't turn to [Abomination](https://dune.fandom.com/wiki/Abomination) from all the wishes + desires that the scene there can have) but we'll see how it goes. 
+[^sf]: Currently starting out at the mecca that is the SF Bay Area (and hoping I don't turn to [Abomination](https://dune.fandom.com/wiki/Abomination)[^abomination] from all the wishes + desires that the scene there can have) but we'll see how it goes. 
 
 ## Contact
 I don't know where I'll be or when, but would love to stay in touch.
