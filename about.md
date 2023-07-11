@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<span class="page-date"> Last updated: July 7, 2023 </span>
+<span class="page-date"> Last updated: July 10, 2023 </span>
 
 Hi there. My name is Moya.
 
@@ -38,12 +38,15 @@ After failing to get laid off 3 times[^layoff], I voluntarily quit in July 2023.
 [^layoff]: 32 weeks (16 base + 2 x 8 years of service) of severance would've been great. Some folks ask why I didn't sandbag myself to get the $$ - turns out, I've got too much of a conscience and feel enough guilt for my coworkers (not to mention anxiousness over my own unproductivity) to go that long.
 
 Prior to that, I spent a smudge over eight years walking the research-to-production pipeline but backwards at Facebook. Lot of this is in [my LinkedIn](https://www.linkedin.com/in/moyachen/) but I semi-refuse to take that site wholly seriously, so here you go.
+
+Separating out the LLM stuff cause that's the stuff that's <i>oh so hot</i> right now. 
+
 * Research engineer, FAIR + GenAI. <i>(Nov 2022-Jul 2023)</i>
     * Large language model pretraining. Mostly looking at pretraining data. Nomadic-ish. 
 * Research engineer, FAIR (Facebook AI Research). <i>(Sept 2020-Oct 2022)</i>
     * Dorked around with [chatbots](https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/), [reasoning](https://arxiv.org/abs/2212.07919), and other parts of natural language processing. Was part of the [oncall for the OPT-175B train](https://arxiv.org/abs/2205.01068). NYC.
 
-Before that, I worked in applied research computer vision on large scale AR localization, face filters, and computational photography; before that, I was on a spam team working on political ads abuse + API abuse in general. See [this old CV from June 2022](/public/mpchen_industry_cv___June_2020__From_academic_cv_nov_2019_.pdf) for more of the details there. 
+Before that, I worked in applied research computer vision on large scale AR localization, face filters, and computational photography; before that, I was on a spam team working on political ads abuse + API abuse in general. This was all in the Seattle office. See [this old CV from June 2022](/public/mpchen_industry_cv___June_2020__From_academic_cv_nov_2019_.pdf) for more of the details there. 
 
 Before joining Facebook (and the corporate world as a whole), I did my undergrad at Caltech. [^mole]  
 
