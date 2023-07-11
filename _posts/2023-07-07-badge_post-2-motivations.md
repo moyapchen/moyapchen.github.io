@@ -30,7 +30,7 @@ Lower order bits:
 
 I'm going to spend the next 1-3 years intentionally doing the higher-variance things (travelling, startups, projects). If something from that time works out, great. If not, I'll have a lot of new experiences and understanding of how different environments are and how I am in those environments in kind, and that's a sort of working out too.[^sf]
 
-[^sf]: Currently starting out at the mecca that is the SF Bay Area (and hoping I don't turn to [Abomination](https://dune.fandom.com/wiki/Abomination)[^abomination] from all the wishes + desires that the scene there can have) but we'll see how it goes. 
+[^sf]: Currently starting out at the mecca that is the SF Bay Area (and hoping I don't turn to [Abomination](https://dune.fandom.com/wiki/Abomination) from all the wishes + desires that the scene there can have) but we'll see how it goes. 
 
 ## Contact
 I don't know where I'll be or when, but would love to stay in touch.
