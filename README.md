@@ -20,7 +20,10 @@ Stuff I want to change:
 
 Stuff changed:
 * Add in footnotes :D
-* Add in emojis 
+* Add in emojis
+* Add in anchor headings :o
+   * :o cause I was not expecting it to be easy as it was
+   * See https://github.com/allejo/jekyll-anchor-headings
 
 Gotchas:
 * Can't install any plugins not in https://pages.github.com/versions/ :( 
