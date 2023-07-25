@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<span class="page-date"> Last updated: July 10, 2023 </span>
+<span class="page-date"> Last updated: July 25, 2023 </span>
 
 Hi there. My name is Moya.
 
@@ -43,6 +43,7 @@ Separating out the LLM stuff cause that's the stuff that's <i>oh so hot</i> righ
 
 * Research engineer, FAIR + GenAI. <i>(Nov 2022-Jul 2023)</i>
     * Large language model pretraining. Mostly looking at pretraining data. Nomadic-ish. 
+    * [Llama 2](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/) 
 * Research engineer, FAIR (Facebook AI Research). <i>(Sept 2020-Oct 2022)</i>
     * Dorked around with [chatbots](https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/), [reasoning](https://arxiv.org/abs/2212.07919), and other parts of natural language processing. Was part of the [oncall for the OPT-175B train](https://arxiv.org/abs/2205.01068). NYC.
 
