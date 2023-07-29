@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<span class="page-date"> Last updated: July 25, 2023 </span>
+<span class="page-date"> Last updated: July 29, 2023 </span>
 
 Hi there. My name is Moya.
 
