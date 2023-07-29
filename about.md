@@ -37,6 +37,8 @@ After failing to get laid off 3 times[^layoff], I voluntarily quit in July 2023.
 
 [^layoff]: 32 weeks (16 base + 2 x 8 years of service) of severance would've been great. Some folks ask why I didn't sandbag myself to get the $$ - turns out, I've got too much of a conscience and feel enough guilt for my coworkers (not to mention anxiousness over my own unproductivity) to go that long.
 
+I've got a project that I'm working on. Ask me about it in person. Might be a big swing and a miss, but [gonna go for the swing anyhow](https://kiwisbybeat.net/minus/part-37). 
+
 Prior to that, I spent a smudge over eight years walking the research-to-production pipeline but backwards at Facebook. Lot of this is in [my LinkedIn](https://www.linkedin.com/in/moyachen/) but I semi-refuse to take that site wholly seriously, so here you go.
 
 Separating out the LLM stuff cause that's the stuff that's <i>oh so hot</i> right now. 
@@ -49,22 +51,24 @@ Separating out the LLM stuff cause that's the stuff that's <i>oh so hot</i> righ
 
 Before that, I worked in applied research computer vision on large scale AR localization, face filters, and computational photography; before that, I was on a spam team working on political ads abuse + API abuse in general. This was all in the Seattle office. See [this old CV from June 2022](/public/mpchen_industry_cv___June_2020__From_academic_cv_nov_2019_.pdf) for more of the details there. 
 
-Before joining Facebook (and the corporate world as a whole), I did my undergrad at Caltech. [^mole]  
+Before joining Facebook (and the corporate world as a whole), I did my undergrad at Caltech. [^mole][^mit] 
 
 [^mole]: A Mole (gdbg, ttboai) if you must know. :hugs:	  
+[^mit]: Someday I'll write a blog post about turning down MIT[^yup] and the obnoxious-but-unavoidable credentials-based reputation signalling that happens in high-risk, low-information scenarios. 
+[^yup]: Yup, got into both MIT + Caltech, and decided to turn down MIT cause the folks I happened to know there felt too normal. High schoolers be silly, lol. :upside_down_face: 
 
 ## The Life Stuff
 
 I spend a lot of time doing everything and nothing.
 
-I genuinely enjoy tech and have since I was a kid, so a good amount of time is spent dorking around reading tech journalism, especially going ons between tech and policy/society/business/etc. I have a pretty rigorous computer science background and have had some pretty unique experiences while being on the inside of That One Social Media Beast, so it can be quite interesting to compare what's being said outside versus what I've experienced first-hand. 
+I genuinely enjoy tech and have since I was a kid, so a good amount of time is spent dorking around reading tech journalism, especially going ons between tech and policy/society/business/etc and comparing/contrasting it with what I've experienced first-hand. 
 
 ### Laundry list of other things I do
 * Outdoors-y fitness-y things: Hiking, climbing, backpacking
    * Distance racing: Havana marathon 2017, Istanbul marathon 2022
 * Music: Piano (good), flute (good high school level), guitar + ukulele (better-than-total-beginner)
 * Reading 
-   * Mostly non-fiction, occasionally good sci-fi, though sourcing that is hard
+   * Mostly non-fiction, occasionally good sci-fi (<3 Ted Chiang)
 * Random classes I've taken: 
    * Improv, Musical Improv, Woodworking
    * Wilderness First Responder (cert + recert)  
