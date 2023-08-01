@@ -46,12 +46,43 @@ Thanks for scanning my QR code! Here are my social media links.
 
 I am also on pretty much every major chat app (Signal > WhatsApp >> Telegram) using the mobile number on my business card.  
  
-## QR image generation
+## Business Card Creation + QR image generation
 
-The QR codes were generated quick and hackishly with a few out-of-the-box QR code generators. I tried [Hugging Face's QR Code AI Art Generator](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator) initially and it wasn't super great; then found [this thread](https://www.reddit.com/r/StableDiffusion/comments/14enj7a/a_generator_for_stable_diffusion_qr_codes_enter_a/) which lead me to [this site](https://qrcodemonster.art/). 
+The QR codes were generated quick and hackishly with one of the out-of-the-box QR code + image prompt generators[^hacks]. In particular, [this thread](https://www.reddit.com/r/StableDiffusion/comments/14enj7a/a_generator_for_stable_diffusion_qr_codes_enter_a/) lead me to [this site](https://qrcodemonster.art/), though I tried a few different QR image generators. See [this directory]({{ '/public/qr_writeup/' | relative_url }}) for some examples. 
+[^hacks]: Cause while I *could* get a model to run locally and tweek things a la [this write-up](https://antfu.me/posts/ai-qrcode), I didn't actually want to spend that much time doing this (and figured I'd clean a good amount up in post).
 
-Final prompt: 
+
+Here's a sample of some of the images I liked more[^city], from maybe an hour or two of prompting:
+
+[^city]: As you may be able to tell, I had the idea of "futuristic city" for a good number of these. 
+
+![QR image]({{ '/public/qr_writeup/hf_controlnet/image(3).png' | relative_url }}){: width="50%"}
+![QR image]({{ '/public/qr_writeup/other_generator/qr.png' | relative_url }}){: width="50%"}
+![QR image]({{ '/public/qr_writeup/monster/mountain_city.jpg' | relative_url }}){: width="50%"}
+![QR image]({{ '/public/qr_writeup/hf_controlnet/image(2).png' | relative_url }}){: width="50%"}
+![QR image]({{ '/public/qr_writeup/hf_controlnet/image(5).png' | relative_url }}){: width="50%"}
+
+At one point, I decided to try one of the example prompts shown on the [QR Code Monster](https://qrcodemonster.art/) page. The output frankly looked way cooler than any of the prompts I had written.  
+![QR image]({{ '/public/qr_writeup/monster/exact_prompt_copy.jpg' | relative_url }}){: width="50%"}
+
+Being wary of the color palatte potentially not printing well (and also the difficuly of integrating such a complex background texture into a cohesive business card), I played around with replacing the "orange" and "teal" in the original prompt until I eventually settled on the simple "black" and "white". 
+
+![QR image used]({{ '/public/qr_writeup/monster/used_qr.jpg' | relative_url }}){: width="50%"}
+
+Final prompt[^copy] : 
 ```
-a holistic drawing of (pc cooling:1.2) (printed circuitboard:0.2), (stunning, highly detailed, 8k, ornate, intricate, cinematic, dehazed, atmospheric:0.7), splash art, white, (black:0.3), (by Jeremy Mann, by John Constable, by El Greco:0.7), (acrylic paint:0.4), (by Zdzislaw Beksinski:0.4), (by Victo Ngai and John Romita Jr:0.8
+a holistic drawing of (pc cooling:1.2) (printed circuitboard:0.2), (stunning, highly detailed, 8k, ornate, intricate, cinematic, dehazed, atmospheric:0.7), splash art, white, (black:0.3), (by Jeremy Mann, by John Constable, by El Greco:0.7), (acrylic paint:0.4), (by Zdzislaw Beksinski:0.4), (by Victo Ngai and John Romita Jr:0.8)
 ``` 
+
+Bit of tweaking in GIMP later[^gimp] (including generating another image with the same prompt to use as the background) and we get the QR code that hopefully lead you here.[^doxx]
+
+![GIMP screen of business card]({{ '/public/qr_writeup/gimp_qr.png' | relative_url }})
+
+
+[^gimp]: Oh the joys of being cheap while funemploymed. :P 
+[^doxx]: Middle bit here purposefully hidden to not doxx myself.
+
+[^copy]: ...prompt largely semi-shamelessly copied from one of the community-made examples shown on the site. Cause keeping to [^hacks] I didn't *actually* wanna put that much work into this. :wink:
+
+
 
