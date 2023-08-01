@@ -49,7 +49,8 @@ I am also on pretty much every major chat app (Signal > WhatsApp >> Telegram) us
 ## Business Card Creation + QR image generation
 
 The QR codes were generated quick and hackishly with one of the out-of-the-box QR code + image prompt generators[^hacks]. In particular, [this thread](https://www.reddit.com/r/StableDiffusion/comments/14enj7a/a_generator_for_stable_diffusion_qr_codes_enter_a/) lead me to [this site](https://qrcodemonster.art/), though I tried a few different QR image generators. See [this directory]({{ '/public/qr_writeup/' | relative_url }}) for some examples. 
-[^hacks]: Cause while I *could* get a model to run locally and tweek things a la [this write-up](https://antfu.me/posts/ai-qrcode), I didn't actually want to spend that much time doing this (and figured I'd clean a good amount up in post).
+
+[^hacks]: Cause while I *could* get a model to run locally and tweek things a la [this write-up](https://antfu.me/posts/ai-qrcode), I didn't actually want to spend that much time doing this.
 
 
 Here's a sample of some of the images I liked more[^city], from maybe an hour or two of prompting:
