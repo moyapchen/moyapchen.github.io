@@ -66,7 +66,7 @@ Here's a sample of some of the images I liked more[^city], from maybe an hour or
 At one point, I decided to try one of the example prompts shown on the [QR Code Monster](https://qrcodemonster.art/) page. The output frankly looked way cooler than any of the prompts I had written.  
 ![QR image]({{ '/public/qr_writeup/monster/exact_prompt_copy.jpg' | relative_url }}){: width="50%"}
 
-Being wary of the color palatte potentially not printing well (and also the difficuly of integrating such a complex background texture into a cohesive business card), I played around with replacing the "orange" and "teal" in the original prompt until I eventually settled on the simple "black" and "white". 
+Being wary of the color palatte potentially not printing well (and also the difficuly of integrating such a complex background texture into a cohesive business card, especially cause I didn't feel like running an in-painting model), I played around with replacing the "orange" and "teal" in the original prompt until I eventually settled on the simple "black" and "white". 
 
 ![QR image used]({{ '/public/qr_writeup/monster/used_qr.jpg' | relative_url }}){: width="50%"}
 
@@ -85,6 +85,11 @@ Since it seemed reasonable enough, I used [Vista Print](https://www.vistaprint.c
 [^gimp]: Oh the joys of being cheap while funemploymed. :P 
 [^doxx]: Middle bit here purposefully hidden to not doxx myself.
 
+## Update (roughly an hour after making this)
+
+I think I've realized the simpler answer here was probably to do QR art on the back side of a business card (letting it take up whatever space it needs), then have clean lines/text on the front. 
+
+Ah well, done is better the enemy of perfect, and there'll always be more chances to print business cards. :P 
 
 
 
