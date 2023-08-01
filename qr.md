@@ -74,9 +74,11 @@ Final prompt[^copy] :
 a holistic drawing of (pc cooling:1.2) (printed circuitboard:0.2), (stunning, highly detailed, 8k, ornate, intricate, cinematic, dehazed, atmospheric:0.7), splash art, white, (black:0.3), (by Jeremy Mann, by John Constable, by El Greco:0.7), (acrylic paint:0.4), (by Zdzislaw Beksinski:0.4), (by Victo Ngai and John Romita Jr:0.8)
 ``` 
 
-Bit of tweaking in GIMP later[^gimp] (including generating another image with the same prompt to use as the background) and we get the QR code that hopefully lead you here.[^doxx]
+Bit of tweaking in GIMP later[^gimp] (including generating another image with the same prompt to use as the background) and we get the business card that hopefully (unless you came from the blog) lead you here.[^doxx]
 
 ![GIMP screen of business card]({{ '/public/qr_writeup/gimp_qr.png' | relative_url }})
+
+Since it seemed reasonable enough, I used [Vista Print](https://www.vistaprint.com/business-cards) to physically print the cards. For those curious, that site charges ~$25 on top of the cost of the card if you want to ship faster (~1 week) and $9 for the default cheap option of ~2 weeks.   
 
 
 [^gimp]: Oh the joys of being cheap while funemploymed. :P 
