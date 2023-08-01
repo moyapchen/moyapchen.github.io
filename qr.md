@@ -69,7 +69,7 @@ Being wary of the color palatte potentially not printing well (and also the diff
 
 ![QR image used]({{ '/public/qr_writeup/monster/used_qr.jpg' | relative_url }}){: width="50%"}
 
-Final prompt[^copy] : 
+Final prompt: 
 ```
 a holistic drawing of (pc cooling:1.2) (printed circuitboard:0.2), (stunning, highly detailed, 8k, ornate, intricate, cinematic, dehazed, atmospheric:0.7), splash art, white, (black:0.3), (by Jeremy Mann, by John Constable, by El Greco:0.7), (acrylic paint:0.4), (by Zdzislaw Beksinski:0.4), (by Victo Ngai and John Romita Jr:0.8)
 ``` 
@@ -84,7 +84,6 @@ Since it seemed reasonable enough, I used [Vista Print](https://www.vistaprint.c
 [^gimp]: Oh the joys of being cheap while funemploymed. :P 
 [^doxx]: Middle bit here purposefully hidden to not doxx myself.
 
-[^copy]: ...prompt largely semi-shamelessly copied from one of the community-made examples shown on the site. Cause keeping to [^hacks] I didn't *actually* wanna put that much work into this. :wink:
 
 
 
