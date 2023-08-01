@@ -79,7 +79,7 @@ I also hope to do more writing, which is the purpose of the existence of this si
 
 ### Friends 
 
-* [NATO](na31.org) 
+* [NATO](https://na31.org) 
 
 ## The This (Site) Stuff
 
