@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<span class="page-date"> Last updated: July 29, 2023 </span>
+<span class="page-date"> Last updated: July 31, 2023 </span>
 
 Hi there. My name is Moya.
 
@@ -76,6 +76,10 @@ I genuinely enjoy tech and have since I was a kid, so a good amount of time is s
 
 
 I also hope to do more writing, which is the purpose of the existence of this site. :stuck_out_tongue_winking_eye:	  
+
+### Friends 
+
+* [NATO](na31.org) 
 
 ## The This (Site) Stuff
 
