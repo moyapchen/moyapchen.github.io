@@ -4,13 +4,18 @@ layout: default
 
 <div class="page">
     <h1 class="page-title">Blog</h1>
-<a href={{"/blog/tags" | absolute_url }}> Link to blog tags here </a>
+ 
+    <ul>
+    <li><a href={{"/blog/tags" | absolute_url }}> Link to blog tags here </a></li>
 
+    <li><a href={{"/blog/short" | absolute_url }}> Link to all posts in titles-only format here </a></li>
+    </ul>
 <hr>
 
 <div class="posts">
   {% for post in paginator.posts %}
      {% include post_short.html post=post %}
+     <hr>
   {% endfor %}
 </div>
 
