@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QR code page
+title: QR Code Art Business Card 
 tags: meta creative art
 ---
 
