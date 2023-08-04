@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<span class="page-date"> Last updated: July 31, 2023 </span>
+<span class="page-date"> Last updated: Aug 3, 2023 </span>
 
 Hi there. My name is Moya.
 
@@ -87,6 +87,8 @@ Places that let me hobo:
 Spun this up in about a day with github pages using the [Poole Jekyll](https://github.com/poole/lanyon) template, with some minor modifications (mostly CSS, also footnotes + emojis) to fit me. [Click here](https://github.com/moyapchen/moyapchen.github.io) for the underlying repo.
 
 The image in the sidebar is a photo of some fireworks that I took as a high schooler, back when I had a bit of a photography phase. I had a shoddy digital camera but figured out how to play with the exposure time; I was plesantly surprised when one of my random "let's shoot at a firework while shaking the camera" images looked vaguely like it could be a bird. [Link to original (on Flickr) here.](https://www.flickr.com/photos/randomnormality/2638292064/) [^flickr]
+
+Also I'm mostly definitely not a graphic designer. Plz halp. (See contact info below.)  
 
 [^flickr]: Incidentally, I wonder if being a Flickr user first is why I ended up getting into Instagram relatively late in the curve of things [^sister] — I'd already satisfied my picture sharing urges with Flickr, and was never quite bought into the lead-by-aesthetics of Instagram. (Though, I definitely appreciate its value!)
 
