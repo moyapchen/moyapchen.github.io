@@ -3,10 +3,8 @@ layout: default
 ---
 
 <div class="page">
-    <h1 class="page-title">Blog, short </h1>
+    <h1 class="page-title">Blog posts, short </h1>
 <hr>
-
-In reverse chronological order. 
 
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%B %Y" %}
