@@ -8,6 +8,11 @@ layout: default
     {{ content }}
 </div>
 
+<hr>
+
+<p> <a href="{{ '/blog' | relative_url }}">← Back to post list</a>
+<p> <a href="{{ '/blog/short' | relative_url }}">← Back to short post list</a>
+
 {% if site.related_posts.size >= 1 %}
 <div class="related">
   <h2>Related posts</h2>
