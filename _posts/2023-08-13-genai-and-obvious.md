@@ -8,11 +8,11 @@ For a tl;dr see the [Conclusion](#conclusion)
 
 ## Intro 
 
-There are a few things that have felt "obvious" to me for the past a year and change about the GenAI space, especially LLMs. A lot of it was probably not obvious to folks in general, but via [working on chatbots before it resurged again](https://arxiv.org/pdf/2104.07567.pdf) and [kicking pretraining GPUs before ChatGPT for OPT175](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/OPT175B_Logbook.pdf?fbclid=IwAR1Gz44159oYGepAF2dHu2tsow3IvQXkATjjC2Qyu-frwApGkj5AoNs0e3c) I got to see and think through a few things before everyone else did.  
+There are a few things that have felt "obvious" to me for the past a year and change about the GenAI space, especially LLMs. A lot of it was probably not obvious to folks in general, but via [working on chatbots before it resurged again](https://arxiv.org/pdf/2104.07567.pdf) and [kicking pretraining GPUs before ChatGPT for OPT175](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/OPT175B_Logbook.pdf) I got to see and think through a few things before the hype cycle started.
 
-In this, I go through some of the categories of clear areas of attack (["Obvious-ish next-ish stuff"](#obvious-ish-next-ish-stuff)), group them into the trends of what folks are building (["Observations"](#observations)), and provide my commentary on these and other promising potential areas (["My Opinions"](#my-opinions)).  
-
-Interestingness to the reader is likely in the reverse order (with ["My Opinions"](#my-opinions) being the most). Former sections gives context and framing for latter ones though, so maybe worth a quick skim.   
+This has all been marinating in my head for a good little while and now seemed as a good time as any to post it out. Hopefully some of y'all get some value from the perspective. :)  
+ 
+In this, I go through some of the categories of clear areas of attack (["Obvious-ish next-ish stuff"](#obvious-ish-next-ish-stuff)), group them into the trends of what folks are building (["Observations"](#observations)), and provide my commentary on these and other promising potential areas (["My Opinions"](#my-opinions)). Last section probably the most interesting; rest gives context and framing, so worth a quick skim.   
 
 ## Obvious-ish next-ish stuff
 
@@ -43,9 +43,9 @@ The next steps of Large Language Model (LLM) development has been "obvious" for 
 -->
 
   
-Note that this ignores large swaths of the ML landscape, especially research side (ex. bias, safety, interpretability), related-but-not-exactly-ML finicky logistical infrastructure things (ex. compliance, data management, app hosting), etc.[^ignore]; [lots](https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/) of [other](https://greylock.com/greymatter/the-new-new-moats/) folks [also](https://www.sequoiacap.com/article/llm-stack-perspective/) have [hot](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) takes.
+Note that this ignores large swaths of the ML landscape[^ignore]; [lots](https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/) of [other](https://greylock.com/greymatter/the-new-new-moats/) folks [also](https://www.sequoiacap.com/article/llm-stack-perspective/) have [categorization](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) takes.
 
-[^ignore]:  There's definitely a nonzero bias towards the things that I'm intellectually interested-in (mostly reasoning + performance improvements...) that define how the grouping here is done. 
+[^ignore]: Especially research side (ex. bias, safety, interpretability), related-but-not-exactly-ML finicky logistical infrastructure things (ex. compliance, data management, app hosting), etc. There's definitely a nonzero bias towards the things that I'm intellectually interested-in (mostly reasoning + performance improvements...) that define how the grouping here is done. 
 
 
 ## Observations 
@@ -126,14 +126,14 @@ It's probably too early to build any ideas anticipating this (unless one somehow
 
 ## Conclusion
 
-There's a lot of fast moving happening in the machine learning space around GenAI. However, despite the degree of real innovation, it's not clear to me (as someone that was in it early) if it is quite as 'easily ripe' from a company founding perspective as some of the hype might suggest. 
+There's a lot of fast moving happening in the machine learning space around GenAI. However, despite the degree of real innovation, it's not clear if it is quite as ripe — from a company founding perspective — as some of the hype might suggest, at least for new players.  
 
 In summary: 
    1.  *There's a lot of good work happening in LLMs right now, but the finite number of ways to go means the space is crowded with folks largely gravitating towards the same sets of things.* 
    2.  *The next 'usable PR hit' will be more powerful forms of multimodal but it might be risky to act on it now without clearer idea of API, technical constraints, etc*. 
 
 
-Anyway, thanks for reading! This has all been marinating in my head for a good little while, so hopefully some of y'all get some value from me externalizing the perspective.  
+Anyway, thanks for reading! 
+Let me know what y'all think. :) 
 
-(Contact info is in the sidebar; will post links to threaded convos if I come across any.)  
 
