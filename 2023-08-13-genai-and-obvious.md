@@ -32,7 +32,9 @@ The next steps of Large Language Model (LLM) development has been "obvious" for 
  
 [^hallucination]: Cause one thing anyone that plays with these models realize is that these things still hallucinate up the wazoo. The more clever folks on the product side figure out use cases that work well within the limitation (ex. use cases where it's easy to check the answer, for brainstorming/creativity, areas where existing accuracy rates are far worse, etc); I've had far too many conversations where that hasn't been the case though. 
 
-# [^flamingo]: \<half-baked opinion\> ideally without tokenizing images as an information + soft-signal destroying hack for the "how do you deal with representing steps over time" problem, but that's an open research problem and definitely easier said than done. \</half-baked opinion\> Will be lots of use cases once promptable/feedback-able multimodal becomes that much more of a thing though. 
+<!---
+ [^flamingo]: \<half-baked opinion\> ideally without tokenizing images as an information + soft-signal destroying hack for the "how do you deal with representing steps over time" problem, but that's an open research problem and definitely easier said than done. \</half-baked opinion\> Will be lots of use cases once promptable/feedback-able multimodal becomes that much more of a thing though. 
+-->
 
 By "obvious for a while", I mean at least a year and change, if not longer. Maybe not obvious to folks in general, but I was already [doing chatbots before it was cool](https://arxiv.org/pdf/2104.07567.pdf) and [been kicking LLM GPUs before ChatGPT](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/chronicles/OPT175B_Logbook.pdf?fbclid=IwAR1Gz44159oYGepAF2dHu2tsow3IvQXkATjjC2Qyu-frwApGkj5AoNs0e3c) so from my vantage point.  
   
