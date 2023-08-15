@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<span class="page-date"> Last updated: Aug 3, 2023 </span>
+<span class="page-date"> Last updated: Aug 14, 2023 </span>
 
 Hi there. My name is Moya.
 
@@ -39,22 +39,25 @@ After failing to get laid off 3 times[^layoff], I voluntarily quit in July 2023.
 
 I've got a project that I'm working on. Ask me about it in person. Might be a big swing and a miss, but [gonna go for the swing anyhow](https://kiwisbybeat.net/minus/part-37). 
 
-Prior to that, I spent a smudge over eight years walking the research-to-production pipeline but backwards at Facebook. Lot of this is in [my LinkedIn](https://www.linkedin.com/in/moyachen/) but I semi-refuse to take that site wholly seriously, so here you go.
+Prior to that, I spent a smudge over eight years walking the research-to-production pipeline but backwards at Facebook. Lot of this is in [my LinkedIn](https://www.linkedin.com/in/moyachen/) but I semi-refuse to take that site wholly seriously, so there you go.
 
-Separating out the LLM stuff cause that's the stuff that's <i>oh so hot</i> right now. 
+The following isn't the most serious either, but maybe slightly more useful (separateing out the LLM stuff cause it's the hotness): 
 
 * Research engineer, FAIR + GenAI. <i>(Nov 2022-Jul 2023)</i>
-    * Large language model pretraining. Mostly looking at pretraining data. Nomadic-ish. 
+    * Large language model pretraining. Mostly looking at infra + experiments on data, including setting best practices and (re-)spinning up some systems from scratch. Somehow ended up part-time sysadmining an AWS EMR Apache Spark cluster. 
+    * Nomadic-ish (Assorted Western Europe, Spain, Africa)  
     * [Llama 2](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/) 
 * Research engineer, FAIR (Facebook AI Research). <i>(Sept 2020-Oct 2022)</i>
-    * Dorked around with [chatbots](https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/), [reasoning](https://arxiv.org/abs/2212.07919), and other parts of natural language processing. Was part of the [oncall for the OPT-175B train](https://arxiv.org/abs/2205.01068). NYC.
+    * Dorked around with [chatbots](https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/), [reasoning](https://arxiv.org/abs/2212.07919), and other parts of natural language processing including some conversational assistant tech-transfer. Was part of the [oncall for the OPT-175B train](https://arxiv.org/abs/2205.01068). 
+    * Most work on these teams (other than OPT175 + BB3 deploy) was the "standard" small-group style of academic-research. Got a lot better at research rigor, lab management notebook, etc here.  
+    * NYC.
 
 Before that, I worked in applied research computer vision on large scale AR localization, face filters, and computational photography; before that, I was on a spam team working on political ads abuse + API abuse in general. This was all in the Seattle office. See [this old CV from June 2022](/public/mpchen_industry_cv___June_2020__From_academic_cv_nov_2019_.pdf) for more of the details there. 
 
 Before joining Facebook (and the corporate world as a whole), I did my undergrad at Caltech. [^mole][^mit] 
 
 [^mole]: A Mole (gdbg, ttboai) if you must know. :hugs:	  
-[^mit]: Someday I'll write a blog post about turning down MIT[^yup] and the obnoxious-but-unavoidable credentials-based reputation signalling that happens in high-risk, low-information scenarios. 
+[^mit]: Someday I'll write a blog post about turning down MIT[^yup], though maybe not cause it's all sorta worked itself out now.  
 [^yup]: Yup, got into both MIT + Caltech, and decided to turn down MIT cause the folks I happened to know there felt too normal. High schoolers be silly, lol. :upside_down_face: 
 
 ## The Life Stuff
@@ -64,8 +67,9 @@ I spend a lot of time doing everything and nothing.
 I genuinely enjoy tech and have since I was a kid, so a good amount of time is spent dorking around reading tech journalism, especially going ons between tech and policy/society/business/etc and comparing/contrasting it with what I've experienced first-hand. 
 
 ### Laundry list of other things I do
-* Outdoors-y fitness-y things: Hiking, climbing, backpacking
-   * Distance racing: Havana marathon 2017, Istanbul marathon 2022
+* Outdoors-y fitness-y things: Hiking, climbing, backpacking, travelling
+   * Distance racing: Seattle marathon 2016, Havana half-marathon 2017, Istanbul marathon 2022 (others) 
+   * Fun hikes: Enchantments Thru Hike (2020),  Mt Adams (2021), Mt Toubkal (2023), Half Dome (2023) 
 * Music: Piano (good), flute (good high school level), guitar + ukulele (better-than-total-beginner)
 * Reading 
    * Mostly non-fiction, occasionally good sci-fi (<3 Ted Chiang)
