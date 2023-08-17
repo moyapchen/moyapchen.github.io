@@ -9,25 +9,25 @@ Hi there. My name is Moya.
 ## Some Quotes I've Liked for Decades Now 
 
 <div class="message" style="text-align: center;">
-  "Dream in a pragmatic way"
+  ["Dream in a pragmatic way"](https://english.stackexchange.com/questions/541352/what-is-the-source-of-the-quote-dream-in-a-pragmatic-way/541367#541367)
 <br>- Aldous Huxley 
 </div>
 
 <div class="message" style="text-align: center;">
-"I urge you to please notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.'”
+["I urge you to please notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.'”](https://en.wikipedia.org/wiki/Kurt_Vonnegut)
 <br>- Kurt Vonnegut Jr [^vonnegut]
 </div>
 
 <div class="message" style="text-align: center;">
-"We are what we pretend to be, so we must be careful about what we pretend to be."
-<br>- Kurt Vonnegut Jr (Mother Night) [^vonnegut]
+["We are what we pretend to be, so we must be careful about what we pretend to be."](https://en.wikipedia.org/wiki/Mother_Night)
+<br>- Kurt Vonnegut Jr [^vonnegut] 
 </div>
 
-[^vonnegut]: My literary tastes as a high schooler is somewhat summed up as "required books for school, plus 'classics', plus a bunch of things by snarky old white dudes". I already liked Vonnegut then ("snarky old white dudes") but also had some solid opportunities to read more of his things in college, thanks to the old sci fi library in the Caltech SAC basement. I could also maybe include about a half-dozen Dune quotes, but those can be weird without context; Frank Herbert's writing style also leaves some... things to be desired. 
+[^vonnegut]: My literary tastes as a high schooler is somewhat summed up as "required books for school, plus 'classics', plus a bunch of things by snarky old white dudes". I already liked Vonnegut then ("snarky old white dudes") but also had some solid opportunities to read more of his things in college, thanks to the old sci fi library in the Caltech SAC basement. I could also maybe include about a half-dozen Dune quotes, but those can be weird without lots of context since... despite being a political speechwriter, Frank Herbert's style is sorta muddling even when it's wise.   
  
 <div class="message" style="text-align: center;">
-"The opposite of war is not peace - it's creation!"
-<br>- Jonathan Larson (Rent) 
+["The opposite of war is not peace - it's creation!"](https://en.wikipedia.org/wiki/Rent_(musical))
+<br>- Jonathan Larson 
 </div>
 
 
