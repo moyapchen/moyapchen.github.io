@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<span class="page-date"> Last updated: Aug 14, 2023 </span>
+<span class="page-date"> Last updated: Aug 17, 2023 </span>
 
 Hi there. My name is Moya.
 
@@ -57,8 +57,7 @@ Before that, I worked in applied research computer vision on large scale AR loca
 Before joining Facebook (and the corporate world as a whole), I did my undergrad at Caltech. [^mole][^mit] 
 
 [^mole]: A Mole (gdbg, ttboai) if you must know. :hugs:	  
-[^mit]: Someday I'll write a blog post about turning down MIT[^yup], though maybe not cause it's all sorta worked itself out now.  
-[^yup]: Yup, got into both MIT + Caltech, and decided to turn down MIT cause the folks I happened to know there felt too normal. High schoolers be silly, lol. :upside_down_face: 
+[^mit]: Someday I'll write a blog post about turning down MIT and other "huh how was that" decisions like intentionally avoiding living in the Bay for a long time. We'll see. It's all sorta worked itself out now, so maybe not.
 
 ## The Life Stuff
 
