@@ -34,7 +34,7 @@
   margin-bottom: .5rem;
  
 }
-
+e
 /**
  * Emojis lol
  */
@@ -44,4 +44,15 @@
   margin: auto; 
 }
 
+
+/**
+ * Notices and the like
+ */
+
+.note {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  color: #000;
+  background-color: #f99999;
+}
 

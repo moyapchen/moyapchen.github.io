@@ -21,8 +21,7 @@ Hi there. My name is Moya.
 <div class="message" style="text-align: center;">
 ["We are what we pretend to be, so we must be careful about what we pretend to be."](https://en.wikipedia.org/wiki/Mother_Night)
 <br>- Kurt Vonnegut Jr [^vonnegut] 
-</div>
-
+</div> 
 [^vonnegut]: My literary tastes as a high schooler is somewhat summed up as "required books for school, plus 'classics', plus a bunch of things by snarky old white dudes". I already liked Vonnegut then ("snarky old white dudes") but also had some solid opportunities to read more of his things in college, thanks to the old sci fi library in the Caltech SAC basement. I could also maybe include about a half-dozen Dune quotes, but those can be weird without lots of context since... despite being a political speechwriter, Frank Herbert's style is sorta muddling even when it's wise.   
  
 <div class="message" style="text-align: center;">
@@ -32,6 +31,14 @@ Hi there. My name is Moya.
 
 
 ## The Job Stuff
+
+<div class="note">
+<p style="margin-bottom: 0rem; text-align: justify;">
+<b>NOTE:</b> I consult at $400/hr[^consult]. Reach out with an email titled <i>"Consulting Reachout - [Insert Project/Company Name Here]"</i> to the [email here](#contact) to chat.   
+</p>
+</div>
+
+[^consult]: Discounts depending on personal interest. As a courtesy, I do an initial "fit-check" call at $150 for an hour.  
 
 After failing to get laid off 3 times[^layoff], I voluntarily quit in July 2023. If you're curious about why, see [this copy of the Motiviations part from my quit post]({% post_url 2023-07-07-badge_post-2-motivations %}).
 
