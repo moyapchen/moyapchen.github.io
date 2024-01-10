@@ -12,6 +12,9 @@ This is my personal above-the-fold web page, using the [Poole Jekyll](https://gi
 ## Run notes
 `python3 _scripts/tag_generator.py` 
 
+`bundle exec jekyll serve`
+
+
 ## Notes
 Stuff I want to change:
 * Add in a way for things to not be blog posts but still have tags? Hmmmmmm.... 
