@@ -4,7 +4,7 @@
 
 <div style="position:relative"> 
 <a href="{{ include.post.url | absolute_url }}">
-    <img src="{{ | 'public/blog_images/headers/' | append: include.post.headerImage | relative_url }}" style="max-height:100px; width:100%; object-fit: none;" />
+    <img src="{{ 'public/blog_images/headers/' | append: include.post.headerImage | relative_url }}" style="max-height:100px; width:100%; object-fit: none;" />
     <div style="position:absolute; bottom: 8px; left: 16px;">
         <h1 class="post-title" style="background-color:white;">
             {{ include.post.title }}
