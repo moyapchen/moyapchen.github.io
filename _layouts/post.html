@@ -7,7 +7,7 @@ layout: default
 {% if page.headerImage %}
 
 <div style="position:relative"> 
-    <img src="{{ | 'public/blog_images/headers/' | append: page.headerImage | relative_url }}" />
+    <img src="{{ 'public/blog_images/headers/' | append: page.headerImage | relative_url }}" />
     <div style="position:absolute; bottom: 8px; left: 16px;">
         <h1 class="post-title" style="background-color:white;">
             {{ page.title }}
