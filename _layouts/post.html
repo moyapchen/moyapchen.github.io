@@ -3,8 +3,33 @@ layout: default
 ---
 
 <div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+
+{% if page.headerImage %}
+
+<div style="position:relative"> 
+    <img src="{{ | 'public/blog_images/headers/' | append: page.headerImage | relative_url }}" />
+    <div style="position:absolute; bottom: 8px; left: 16px;">
+        <h1 class="post-title" style="background-color:white;">
+            {{ page.title }}
+        </h1>
+    </div>
+</a>
+
+</div> 
+
+{% else %} 
+<h1 class="post-title">
+    {{ page.title }}
+</h1>
+
+{% endif %} 
+
+  <span class="post-date">{{ page.date | date_to_string }}
+      | Tags: 
+       {% for tag in page.tags %}
+          <a href="{{ '/blog/tags/' | append: tag | absolute_url }}"> {{tag}} </a> ∗ 
+       {% endfor %}
+   </span>
     {{ content }}
 </div>
 
