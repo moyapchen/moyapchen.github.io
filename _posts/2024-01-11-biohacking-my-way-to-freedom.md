@@ -83,6 +83,5 @@ As for what's here right now though, egg freezing is pretty awesome.
 
 * * *
 
-*With thanks to LK and BC for proofreading + editing*
-
+*With thanks to LK and BC for proofreading + editing. Image via GPT4.*
 
