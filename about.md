@@ -22,21 +22,50 @@ Hi there. My name is Moya.
 ["We are what we pretend to be, so we must be careful about what we pretend to be."](https://en.wikipedia.org/wiki/Mother_Night)
 <br>- Kurt Vonnegut Jr [^vonnegut] 
 </div> 
-[^vonnegut]: My literary tastes as a high schooler is somewhat summed up as "required books for school, plus 'classics', plus a bunch of things by snarky old white dudes". I already liked Vonnegut then ("snarky old white dudes") but also had some solid opportunities to read more of his things in college, thanks to the old sci fi library in the Caltech SAC basement. I could also maybe include about a half-dozen Dune quotes, but those can be weird without lots of context since... despite being a political speechwriter, Frank Herbert's style is sorta muddling even when it's wise.   
+[^vonnegut]: My literary tastes as a high schooler is somewhat summed up as "required books for school, plus 'classics', plus a bunch of things by snarky old white dudes". I already liked Vonnegut then ("snarky old white dudes") but also had some solid opportunities to read more of his things in college, thanks to the old sci fi library in the Caltech SAC basement.[^dune]
+
+[^dune]: I could also maybe include about a half-dozen Dune quotes, but those can be weird without lots of context since... despite being a political speechwriter, Frank Herbert's style is sorta muddling even when it's wise.[^infinite_jest] 
  
 <div class="message" style="text-align: center;">
 ["The opposite of war is not peace - it's creation!"](https://en.wikipedia.org/wiki/Rent_(musical))
 <br>- Jonathan Larson 
 </div>
 
+## The Life Stuff
+
+I spend a lot of time doing everything and nothing.
+
+I genuinely enjoy tech and have since I was a kid, so a good amount of time is spent dorking around reading tech journalism, especially going ons between tech and policy/society/business/etc and comparing/contrasting it with what I've experienced first-hand. 
+
+### Laundry list of other things I do
+* Outdoors-y fitness-y things: Hiking, climbing, backpacking, travelling
+   * Distance racing: Seattle marathon 2016, Havana half-marathon 2017, Istanbul marathon 2022 (others) 
+   * Fun hikes: Enchantments Thru Hike (2020),  Mt Adams (2021), Mt Toubkal (2023), Half Dome (2023) 
+   * Distance racing + fun hiking combos: Ushuaia 50k (2023), Hong Kong 50k (2024)
+* Music: Piano (good), flute (good high school level), guitar + ukulele (better-than-total-beginner)
+* Reading 
+   * Mostly non-fiction, occasionally good sci-fi (<3 Ted Chiang)
+* Random classes I've taken: 
+   * Improv, Musical Improv, Woodworking
+   * Wilderness First Responder (cert + recert)  
+   * Scuba Diving (Advanced Open Water; will get this to Rescue Diver at some point) 
+
+
+I also hope to do more writing, which is the purpose of the existence of this site. :stuck_out_tongue_winking_eye:	  
+
+### Friends 
+
+Places that let me hobo: 
+* [NATO](https://na31.org) 
+
 
 ## The Job Stuff
+
+Here's a [resume from April 2024](/public/mpchen_industry_resume_2024.pdf).
 
 After failing to get laid off 3 times[^layoff], I voluntarily quit in July 2023. If you're curious about why, see [this copy of the Motiviations part from my quit post]({% post_url 2023-07-07-badge_post-2-motivations %}).
 
 [^layoff]: 32 weeks (16 base + 2 x 8 years of service) of severance would've been great. Some folks ask why I didn't sandbag myself to get the $$ - turns out, I've got too much of a conscience and feel enough guilt for my coworkers (not to mention anxiousness over my own unproductivity) to go that long.
-
-I've got a project that I'm working on. Ask me about it in person. Might be a big swing and a miss, but [gonna go for the swing anyhow](https://kiwisbybeat.net/minus/part-37). 
 
 Prior to that, I spent a smudge over eight years walking the research-to-production pipeline but backwards at Facebook. Lot of this is in [my LinkedIn](https://www.linkedin.com/in/moyachen/) but I semi-refuse to take that site wholly seriously, so there you go.
 
@@ -58,39 +87,13 @@ Before joining Facebook (and the corporate world as a whole), I did my undergrad
 [^mole]: A Mole (gdbg, ttboai) if you must know. :hugs:	  
 [^mit]: Someday I'll write a blog post about turning down MIT and other "huh how was that" decisions like intentionally avoiding living in the Bay for a long time. We'll see. It's all sorta worked itself out now, so maybe not.
 
-## The Life Stuff
-
-I spend a lot of time doing everything and nothing.
-
-I genuinely enjoy tech and have since I was a kid, so a good amount of time is spent dorking around reading tech journalism, especially going ons between tech and policy/society/business/etc and comparing/contrasting it with what I've experienced first-hand. 
-
-### Laundry list of other things I do
-* Outdoors-y fitness-y things: Hiking, climbing, backpacking, travelling
-   * Distance racing: Seattle marathon 2016, Havana half-marathon 2017, Istanbul marathon 2022 (others) 
-   * Fun hikes: Enchantments Thru Hike (2020),  Mt Adams (2021), Mt Toubkal (2023), Half Dome (2023) 
-* Music: Piano (good), flute (good high school level), guitar + ukulele (better-than-total-beginner)
-* Reading 
-   * Mostly non-fiction, occasionally good sci-fi (<3 Ted Chiang)
-* Random classes I've taken: 
-   * Improv, Musical Improv, Woodworking
-   * Wilderness First Responder (cert + recert)  
-   * Scuba Diving (Advanced Open Water; will get this to Rescue Diver at some point) 
-
-
-I also hope to do more writing, which is the purpose of the existence of this site. :stuck_out_tongue_winking_eye:	  
-
-### Friends 
-
-Places that let me hobo: 
-* [NATO](https://na31.org) 
-
 ## The This (Site) Stuff
 
-Spun this up in about a day with github pages using the [Poole Jekyll](https://github.com/poole/lanyon) template, with some minor modifications (mostly CSS, also footnotes + emojis) to fit me. [Click here](https://github.com/moyapchen/moyapchen.github.io) for the underlying repo.
+Spun this up in about a day with github pages using the [Poole Jekyll](https://github.com/poole/lanyon) template, with some minor modifications (mostly CSS, also footnotes + emojis). [Click here](https://github.com/moyapchen/moyapchen.github.io) for the underlying repo.
 
-The image in the sidebar is from me spending a bit of time one day prompting ChatGPT with [a long exposure photo of some fireworks that I took as a high schooler](https://www.flickr.com/photos/randomnormality/2638292064/) (which was also the prior logo) plus [a prior image I'd generated for a blog post whose style I happened to like]({% post_url 2024-01-11-biohacking-my-way-to-freedom %}).   
+The image in the sidebar is from me prompting ChatGPT with [a long exposure photo of some fireworks that I took as a high schooler](https://www.flickr.com/photos/randomnormality/2638292064/) (which was the prior logo) plus [a an image I'd generated for a blog post whose style I happened to like]({% post_url 2024-01-11-biohacking-my-way-to-freedom %}).   
  
-Also I'm mostly definitely not a graphic designer and will never be one. Feedback/suggestions/etc welcome. :)   
+In general, feedback/suggestions/bug reports etc welcome. :)   
 
 [^infinite_jest]: Incidentally, despite this unnecessary (and slightly over-the-top) usage of footnotes, I've never actually finished *Infinite Jest*. 
 
