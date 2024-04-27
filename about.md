@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<span class="page-date"> Last updated: Aug 17, 2023 </span>
+<span class="page-date"> Last updated: Apr 26, 2024 </span>
 
 Hi there. My name is Moya.
 
@@ -31,14 +31,6 @@ Hi there. My name is Moya.
 
 
 ## The Job Stuff
-
-<div class="note">
-<p style="margin-bottom: 0rem; text-align: justify;">
-<b>NOTE:</b> I consult at $400/hr[^consult]. Reach out with an email titled <i>"Consulting Reachout - [Insert Project/Company Name Here]"</i> to the [email here](#contact) to chat.   
-</p>
-</div>
-
-[^consult]: Discounts depending on personal interest. As a courtesy, I do an initial "fit-check" call at $150 for an hour.  
 
 After failing to get laid off 3 times[^layoff], I voluntarily quit in July 2023. If you're curious about why, see [this copy of the Motiviations part from my quit post]({% post_url 2023-07-07-badge_post-2-motivations %}).
 
@@ -96,13 +88,9 @@ Places that let me hobo:
 
 Spun this up in about a day with github pages using the [Poole Jekyll](https://github.com/poole/lanyon) template, with some minor modifications (mostly CSS, also footnotes + emojis) to fit me. [Click here](https://github.com/moyapchen/moyapchen.github.io) for the underlying repo.
 
-The image in the sidebar is a photo of some fireworks that I took as a high schooler, back when I had a bit of a photography phase. I had a shoddy digital camera but figured out how to play with the exposure time; I was plesantly surprised when one of my random "let's shoot at a firework while shaking the camera" images looked vaguely like it could be a bird. [Link to original (on Flickr) here.](https://www.flickr.com/photos/randomnormality/2638292064/) [^flickr]
-
-Also I'm mostly definitely not a graphic designer. Plz halp. (See contact info below.)  
-
-[^flickr]: Incidentally, I wonder if being a Flickr user first is why I ended up getting into Instagram relatively late in the curve of things [^sister] — I'd already satisfied my picture sharing urges with Flickr, and was never quite bought into the lead-by-aesthetics of Instagram. (Though, I definitely appreciate its value!)
-
-[^sister]: ...and only as a result of it being the primary way to contact my little sister... God I hate the messaging app ecosystem fragmentation that exists right now. [^infinite_jest]
+The image in the sidebar is from me spending a bit of time one day prompting ChatGPT with [a long exposure photo of some fireworks that I took as a high schooler](https://www.flickr.com/photos/randomnormality/2638292064/) (which was also the prior logo) plus [a prior image I'd generated for a blog post whose style I happened to like]({% post_url 2024-01-11-biohacking-my-way-to-freedom %}).   
+ 
+Also I'm mostly definitely not a graphic designer and will never be one. Feedback/suggestions/etc welcome. :)   
 
 [^infinite_jest]: Incidentally, despite this unnecessary (and slightly over-the-top) usage of footnotes, I've never actually finished *Infinite Jest*. 
 
