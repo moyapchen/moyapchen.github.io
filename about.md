@@ -77,7 +77,7 @@ The following isn't the most serious either, but maybe slightly more useful (sep
     * [Llama 2](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/) 
 * Research engineer, FAIR (Facebook AI Research). <i>(Sept 2020-Oct 2022)</i>
     * Dorked around with [chatbots](https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/), [reasoning](https://arxiv.org/abs/2212.07919), and other parts of natural language processing including some conversational assistant tech-transfer. Was part of the [oncall for the OPT-175B train](https://arxiv.org/abs/2205.01068). 
-    * Most work on these teams (other than OPT175 + BB3 deploy) was the "standard" small-group style of academic-research. Got a lot better at research rigor, lab management notebook, etc here.  
+    * Most work on these teams (other than OPT175 + BB3 deploy) was the "standard" small-group style of academic-research. Got a lot better at research rigor, lab notebook management, etc here.  
     * NYC.
 
 Before that, I worked in applied research computer vision on large scale AR localization, face filters, and computational photography; before that, I was on a spam team working on political ads abuse + API abuse in general. This was all in the Seattle office. See [this old CV from June 2022](/public/mpchen_industry_cv___June_2020__From_academic_cv_nov_2019_.pdf) for more of the details there. 
